@@ -1,1 +1,1 @@
-Meu primeiro site com bootsrap e SASS
+Meu primeiro site com bootsrap e SCSS
